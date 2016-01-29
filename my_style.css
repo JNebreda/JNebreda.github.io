@@ -2,9 +2,35 @@
 body { 
   background: #ffffff url('background_b&w_4.jpg') no-repeat center center fixed;
   background-size: contain;
-  margin:0px;
+  margin-top:20px;
+  margin-right:40px;
 }
 
+
+.page_label{
+  float: right;
+  width: 150px;
+  text-align: center;
+
+}
+
+#JNebreda{
+ font-family: "Arial", Helvetica, sans-serif;
+ font-size: xx-large;
+}
+
+#Portfolio{
+ font-family: "Courier New", Courier, monospace;
+ font-size: large;    borde    border: 3px solid #73AD21;
+r: 3px solid #73AD21;
+
+ display:inline-block;
+ -webkit-transform:scaleX(1.6); /* Safari and Chrome */
+ -moz-transform:scaleX(2); /* Firefox */
+ -ms-transform:scaleX(2); /* IE 9 */
+ -o-transform:scaleX(2); /* Opera */
+ transform:scaleX(1.6); /* W3C */
+}
 
 
 
