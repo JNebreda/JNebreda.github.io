@@ -1,9 +1,47 @@
 
-html { 
+body { 
   background: #ffffff url('background_b&w_4.jpg') no-repeat center center fixed;
   background-size: contain;
+  margin:0px;
 }
 
-body{margin:0px;}
 
 
+
+h1 {  
+  font-size: xxx-large;  
+  text-align: center;
+  color: rgb(90, 90, 41);
+}
+
+img {
+  width: 150px;
+}
+
+td {
+  vertical-align: top;
+  horizontal-align: center;
+}
+
+table tr td {
+    padding: 50px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  color: brown
+}
+
+.HobbiesOl{
+  color: rgb(200,100,50);
+}
+
+#special_table {
+  border: 1px;
+  border-style: solid;
+  border-color: rgb(90, 90, 41);
+}
